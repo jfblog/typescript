@@ -1,0 +1,22 @@
+{
+  "name": "typescript",
+  "version": "1.0.0",
+  "description": "study ts",
+  "main": "index.js",
+  "scripts": {
+    "test": "dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jfblog/typescript.git"
+  },
+  "keywords": [
+    "ts"
+  ],
+  "author": "cjf",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jfblog/typescript/issues"
+  },
+  "homepage": "https://github.com/jfblog/typescript#readme"
+}
